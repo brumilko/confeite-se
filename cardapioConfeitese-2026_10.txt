@@ -1,0 +1,105 @@
+<div class="conjuntoDoces">
+  <div class="tipoProdutos">
+    <div class="cabecalho"><span>Bolos Simples</span><span>R$65/kg</span></div>
+    <div class="itens">
+      <div><span>Brigadeiro</span></div>
+      <div><span>Brigadeiro branco</span></div>
+      <div><span>Dois Amores</span></div>
+      <div><span>Prestígio</span></div>
+      <div><span>Doce de Leite</span></div>
+      <div><span>Paçoca</span></div>
+      <div><span>Creme quatro leites</span></div>
+    </div>
+  </div>
+  <div class="tipoProdutos">
+    <div class="cabecalho"><span>Bolo de Frutas</span><span>R$77/kg</span></div>
+    <div class="itens">
+      <div><span><i>Morangos com</i></span></div>
+      <div><span>Brigadeiro Gourmet</span></div>
+      <div><span>Brigadeiro Branco</span></div>
+      <div><span>Ganache de Chocolate</span></div>
+      <div><span>Doce de Leite</span></div>
+      <div><span>Creme quatro leites</span></div>
+      <div><span>Brigadeiro de Ninho</span></div>
+      <div><span>Brigadeiro branco, creamcheese e raspas de chocolate</span></div>
+      <div><span></span></div>
+      <div><span><i>Abacaxi com</i></span></div>
+      <div><span>Creme quatro leites</span></div>
+      <div><span>Coco</span></div>
+      <div><span>Doce de leite</span></div>
+      <div><span></span></div>
+      <div><span><i>Geléias</i></span></div>
+      <div><span>Morango</span></div>
+      <div><span>Abacaxi</span></div>
+      <div><span>Ameixa</span></div>
+      <div><span>Frutas Vermelhas</span></div>
+      <div><span>Maracujá</span></div>
+      <div><span>Damasco</span></div>
+    </div>
+  </div>
+  <div class="tipoProdutos">
+    <div class="cabecalho"><span>Bolos Especiais</span><span>R$85/kg</span></div>
+    <div class="itens">
+      <div><span>Frutas Vermelhas</span></div>
+      <div><span>Marta Rocha</span></div>
+      <div><span>Leite Ninho com Nutella</span></div>
+      <div><span>Strogonoff de Nozes</span></div>
+      <div><span>Pistache</span></div>
+      <div><span>Trufados</span></div>
+      <div><span>Kitkat</span></div>
+      <div><span>Creme de avelã</span></div>
+      <div><span>Red Velvet</span></div>
+      <div><span>Floresta Negra</span></div>
+      <div><span>Sonho de Valsa</span></div>
+      <div><span>Ouro Branco</span></div>
+      <div><span>Mousse de Limão</span></div>
+      <div><span>Mousse de Chocolate</span></div>
+      <div><span>Mousse de Maracujá</span></div>
+      <div><span>Mousse de Brigadeiro Branco</span></div>
+    </div>
+  </div>
+  <div class="tipoProdutos">
+    <div class="cabecalho"><span>Bolos Supremos</span><span>R$95/Kg</span></div>
+    <div class="itens">
+      <div><span>Ferrero</span></div>
+      <div><span>Kinder Bueno</span></div>
+      <div><span>Naked cake com frutas frescas</span></div>
+      <div><span>Pasta americana</span></div>
+    </div>
+  </div>
+</div>
+
+<div class="conjuntoDoces">
+  <div class="tipoProdutos">
+    <div class="cabecalho"><span>DOCES SIMPLES</span><span>R$88/cento</span></div>
+    <div class="itens">
+      <div><span>Brigadeiro</span></div>
+      <div><span>Beijinho</span></div>
+      <div><span>Cajuzinho</span></div>
+      <div><span>Dois Amores</span></div>
+      <div><span>Brigadeiro de coco queimado</span></div>
+      <div><span>Bicho de Pé</span></div>
+    </div>
+  </div>
+  <div class="tipoProdutos">
+    <div class="cabecalho"><span>DOCES FINOS</span></div>
+    <div class="itens">
+      <div><span>Bombom de Uva e Morango</span><span class="preco">R$185/cento</span></div>
+      <div><span>Surpresa de Uva</span><span class="preco">R$165/cento</span></div>
+      <div><span>Camafeu de nozes</span><span class="preco">R$210/cento</span></div>
+      <div><span><i>Brigadeiro gourmet</i> Ninho com Nutella / Oreo / Amêndoas / Limão siciliano / Churros / Café</span><span class="preco">R$165/cento</span></div>
+      <div><span><i>Brigadeiros Explosivos</i> Damasco com coco queimado / Parmesão com goiabada / Prestígio / Frutas vermelhas com brigadeiro branco / Café com caramelo salgado / Maracujá com chocolate / Ninho com Nutella</span><span class="preco">R$195/cento</span></div>
+      <div><span>Bem Casado</span><span class="preco">R$5.8/und</span></div>
+      <div><span>Mini Banoffi</span><span class="preco">R$210/cento</span></div>
+      <div><span>Mini cheesecake</span><span class="preco">R$210/cento</span></div>
+      <div><span>Mini Tartelete de Limão ou Maracujá</span><span class="preco">R$195/cento</span></div>
+      <div><span>Verrine (doces em potinhos)</span><span class="preco">R$225/cento</span></div>
+      <div><span>Mini brownie</span><span class="preco">R$195/cento</span></div>
+      <div><span>Copinhos de chocolate</span><span class="preco">R$185/cento</span></div>
+      <div><span><i>Trufas</i> Tradicional / Trufa frutas vermelhas / Trufas de café / Laranja / Maracujá</span><span class="preco">R$175/cento</span></div>
+      <div><span>Macarons</span><span class="preco">R$7.9/und</span></div>
+      <div><span><i>Bombons de molde</i> Framboesa / Limão siciliano e gengibre</span><span class="preco">R$175/cento</span></div>
+      <div><span>Marroc</span><span class="preco">R$195/cento</span></div>
+      <div><span>Bombom Matcha com chocolate meio amargo</span><span class="preco">R$210/cento</span></div>
+    </div>
+  </div>
